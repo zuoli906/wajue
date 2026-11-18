@@ -1,0 +1,18 @@
+{
+  "README.md": {
+    "bytes": 926,
+    "sha256": "f7162ad35a4f6888c7e08a1fd6ad3b6317ed7a2b7413abf736f5d9fb5288f634"
+  },
+  "完整聊天记录.md": {
+    "bytes": 25848,
+    "sha256": "e56f010c5307886f3c989cc8429edfb8875cb4c3881f7529850413fbd168abfa"
+  },
+  "实验报告.md": {
+    "bytes": 22089,
+    "sha256": "f146c6778d9142edb33b3907f42b7c8b49d7077f924014d3ca248ad6d3844ccb"
+  },
+  "实验报告.pdf": {
+    "bytes": 432240,
+    "sha256": "30f6618dbbba2783da193fb0e01aa1fc3a42ec2c3de2217928299feabf8b5537"
+  }
+}
